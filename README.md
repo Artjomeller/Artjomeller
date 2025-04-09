@@ -19,5 +19,5 @@ Welcome to my GitHub profile! Here's a little about me:
 - I’m looking to collaborate mostly on **Web Development** projects.
 
 ### 📫 How to Reach Me
-- Feel free to contact me (https://www.linkedin.com/in/artjom-eller/)
+- Feel free to contact me https://www.linkedin.com/in/artjom-eller/
 ## 🫶 Thank you for visiting my profile!
