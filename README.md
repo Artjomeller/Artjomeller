@@ -20,4 +20,4 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 📫 How to Reach Me
 - Feel free to contact me through my GitHub profile or find me elsewhere online.
 
-**Thank you for visiting my profile!**
+## 🫶 Thank you for visiting my profile!
