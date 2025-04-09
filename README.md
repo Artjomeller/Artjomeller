@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Artjomeller
+# 👋 Hi, I’m @Mell
 
 Welcome to my GitHub profile! Here's a little about me:
 
