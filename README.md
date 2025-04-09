@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - I have **experience** working with **databases, including MySQL, PostgreSQL, and NoSQL solutions like Firestore**.
 - I've also gained practical experience using **Docker**, having containerized applications, and have basic familiarity with **Kali Linux**.
 
-###🌱 My Journey
+### 🌱 My Journey
 - I'm a career changer: from being a **Chef** to diving into **IT**.
 - I started learning software development in **August 2023**.
 - I’m currently studying at **Kehtna Kutsehariduskeskus**, a vocational school in Estonia, graduating in **June 2025**.
