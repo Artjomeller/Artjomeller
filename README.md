@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Artjom
+## 👋 Hi, I’m Artjom
 
 Welcome to my GitHub profile! Here's a little about me:
 
