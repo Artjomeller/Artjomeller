@@ -1,8 +1,21 @@
-👋 Hi, I’m @Artjomeller
-👀 Most of time I deal with web developing (Javascript, React). I am also very interested in UI/UX development.
-🌱 I am a career changer: from chef to IT.
-🌱 I have been learning software development since August 2023.
-🌱 I’m currently learning software development in Kehtna Kutsehariduskeskus (vocational school in Estonia).
-✨  Did my first internship.
-💞️ I’m looking to collaborate mostly on web development.
-📫 Contact me through my Github profile or find me somewhere:).
+# 👋 Hi, I’m @Artjomeller
+
+Welcome to my GitHub profile! Here's a little about me:
+
+## 👀 What I Do
+- Most of my time is dedicated to **Web Development**, specializing in **JavaScript** and **React**.
+- I have a strong interest in **UI/UX Development**.
+
+## 🌱 My Journey
+- I'm a career changer: from being a **Chef** to diving into **IT**.
+- I started learning software development in **August 2023**.
+- I’m currently studying at **Kehtna Kutsehariduskeskus**, a vocational school in Estonia.
+- I completed my **first internship**, gaining hands-on experience.
+
+## 💞️ Collaboration
+- I’m looking to collaborate mostly on **Web Development** projects.
+
+## 📫 How to Reach Me
+- Feel free to contact me through my GitHub profile or find me elsewhere online.
+
+Thank you for visiting my profile!
